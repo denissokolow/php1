@@ -23,6 +23,6 @@
         echo "<br/>";
         print_r($_POST['email']);
         ?>
-    <?php endif; ?>
+    <?php endif;?>
 </body>
 </html>
